@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\sylva\\Desktop\\SFERA-Android_Natif-ARToolKit-V1\\base\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\sylva\\Desktop\\SFERA-Android_Natif-ARToolKit-V1\\base\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\local192\\Desktop\\artoolkit-android-studio-example-master\\base\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\local192\\Desktop\\artoolkit-android-studio-example-master\\base\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\sylva\\Desktop\\artoolkit-android-studio-example-master\\base\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\sylva\\Desktop\\artoolkit-android-studio-example-master\\base\\src\\main\\res\\xml\\preferences.xml"
+    }
+]

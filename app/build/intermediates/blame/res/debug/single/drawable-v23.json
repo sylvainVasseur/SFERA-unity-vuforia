@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\sylva\\Desktop\\SFERA-Android_Natif-ARToolKit-V1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\sylva\\Desktop\\SFERA-Android_Natif-ARToolKit-V1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\local192\\Desktop\\artoolkit-android-studio-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\local192\\Desktop\\artoolkit-android-studio-example-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]
